@@ -56,22 +56,38 @@
 <br>
 
 <div dir="auto">
-  <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Projects</h2><a id="user-content-projects" class="anchor" aria-label="Permalink: Projects" href="#projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-  <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">2024년 SW전문가 양성 과정의 프로젝트 목록</h3><a id="user-content-2024년-sw전문가-양성-과정의-프로젝트-목록" class="anchor" aria-label="Permalink: 2024년 SW전문가 양성 과정의 프로젝트 목록" href="#2024년-sw전문가-양성-과정의-프로젝트-목록"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><strong>1) Object Detection</strong> <br></p>
-<table>
-<thead>
-<tr>
-<th align="center">YOLOv5</th>
-<th align="center">Realtime Detection</th>
-<th align="center">Toy project</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a href="https://github.com/kingodjerry/YOLOv5projects">Fine-tuning 프로젝트</a></td>
-<td align="center"><a href="https://github.com/kingodjerry/auto_camera">손동작 인식 자동촬영 웹앱 프로젝트</a></td>
-<td align="center"><a href="https://github.com/kingodjerry/grounding_dino">토이 프로젝트 : Grounding DINO</a></td>
-</tr>
-</tbody>
-</table>
+  <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto">Projects</h2>
+    <a id="user-content-projects" class="anchor" aria-label="Permalink: Projects" href="#projects">
+      <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+  </div>
+  <div class="markdown-heading" dir="auto">
+    <h3 class="heading-element" dir="auto">(개인) 생성 AI 모델 클라우드 서비스를 통해 API로 구축 및 이를 활용하여 웹사이트 구현</h3>
+    <a id="user-content-2024년-sw전문가-양성-과정의-프로젝트-목록" class="anchor" aria-label="Permalink: 2024년 SW전문가 양성 과정의 프로젝트 목록" href="#2024년-sw전문가-양성-과정의-프로젝트-목록">
+      <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+        <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+      </svg>
+    </a>
+  </div>
+  <p dir="auto"><strong>1) Object Detection</strong> <br></p>
+  <table>
+    <thead>
+      <tr>
+        <th align="center">코랩</th>
+        <th align="center">AWS</th>
+        <th align="center">웹</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><a href="https://colab.research.google.com/drive/1g6Z7tvFkOMRKFkCh4zJhO2CulGCUJRUm#scrollTo=DxzHZCafoWur">stable diffusion 추론 코드 구현</a></td>
+        <td align="center"><a href="https://www.notion.so/AWS-fd3f8dc999d947a1a8535d52375ac4a8">sagemaker, s3, rds, lambda 서비스 사용</a></td>
+        <td align="center"><a href="https://github.com/onejin123/StableDiffusion">fastapi + svelte</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
