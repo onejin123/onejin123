@@ -72,7 +72,6 @@
       </svg>
     </a>
   </div>
-  <p dir="auto"><strong>1) Object Detection</strong> <br></p>
   <table>
     <thead>
       <tr>
