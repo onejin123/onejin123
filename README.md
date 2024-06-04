@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-  <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/298229cc0be9a7c788e050925d578a2b2f83c5dec31e8e197d86dd1d38eebf13/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030303030302672616e646f6d3d66616c73652677696474683d343335266c696e65733d48656c6c6f2b776f726c642532432b546869732b69732b4a4552525927532b47495448554221" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=000000&amp;random=false&amp;width=435&amp;lines=Hello+world%2C+This+is+WONJIN'S+GITHUB!" style="max-width: 100%;"></a>
+  <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello+world%2C+Welcome+to+WONJIN's+GITHUB!" alt="Typing SVG" style="max-width: 100%;"></a>
+
 </div>
 
 <!--내용 부분-->
