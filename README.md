@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center">🖥️ Frameworks 🖥️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/diffusers-777BB4.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+</div>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -29,19 +36,19 @@
 
 <br>
 
-<h3 align="center">☁️ Cloud ☁️</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
 
 <br>
+
+<br>
+
+<h3 align="center">☁️ Cloud ☁️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -51,10 +58,3 @@
 </div>
 
 <br>
-
-<h3 align="center">🖥️ Frameworks 🖥️</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/diffusers-777BB4.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-</div>
